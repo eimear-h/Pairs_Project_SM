@@ -4,3 +4,4 @@ Additional Materials for pairs project on Finding the Truth in TEQs
 Contents
 1. Derivation of important formulas
 2. Analytical Solution of the problem
+3. Python Code used to create graphs
